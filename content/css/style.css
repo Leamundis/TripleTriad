@@ -1,0 +1,11 @@
+.column {
+    height: 150px;
+}
+
+.row {
+    width: 150px;
+}
+
+table, tr, td {
+    border-style: solid;
+}
