@@ -1,0 +1,9 @@
+dragula([document.querySelector('.hand'), document.querySelector('.containers1')]);
+dragula([document.querySelector('.hand'), document.querySelector('.containers2')]);
+dragula([document.querySelector('.hand'), document.querySelector('.containers3')]);
+dragula([document.querySelector('.hand'), document.querySelector('.containers4')]);
+dragula([document.querySelector('.hand'), document.querySelector('.containers5')]);
+dragula([document.querySelector('.hand'), document.querySelector('.containers6')]);
+dragula([document.querySelector('.hand'), document.querySelector('.containers7')]);
+dragula([document.querySelector('.hand'), document.querySelector('.containers8')]);
+dragula([document.querySelector('.hand'), document.querySelector('.containers9')]);

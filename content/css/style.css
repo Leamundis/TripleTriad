@@ -1,11 +1,21 @@
-.column {
+.row {
     height: 150px;
 }
 
-.row {
+.column {
     width: 150px;
 }
 
 table, tr, td {
     border-style: solid;
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.hand {
+    display: flex;
 }

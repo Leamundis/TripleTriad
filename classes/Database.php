@@ -27,8 +27,7 @@ class Database
 
 		// Error handling
 		if(mysqli_connect_error()) {
-			trigger_error("Failed to conencto to MySQL: " . mysql_connect_error(),
-				E_USER_ERROR);
+			trigger_error("Failed to conencto to MySQL: " . mysql_connect_error(), E_USER_ERROR);
 		}
 	}
 	// Magic method clone is empty to prevent duplication of connection
